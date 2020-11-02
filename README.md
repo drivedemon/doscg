@@ -26,7 +26,7 @@ php artisan migrate
 ```
 Start backend server (You should see the backend up and running on  `localhost:8000`)
 ```
-php artisan migrate
+php artisan serve
 ```
 
 ## Start Development (Frontend)
