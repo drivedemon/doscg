@@ -1,0 +1,25 @@
+@import 'https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css';
+@import './color.scss';
+@import './resume.scss';
+
+$success: #03d182;
+$danger: #ed2f14;
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin: 0 0 100px;
+}
+
+span {
+  font-size: 16px;
+}
+
+.content-box {
+  box-shadow: 0 0 8px 0 #e7ebef;
+  padding: 20px;
+  background: var(--ion-color-white);
+}
