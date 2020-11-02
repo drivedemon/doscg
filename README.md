@@ -1,4 +1,6 @@
-# doscg
+# DO-SCG
+
+## Start Development (Backend)
 
 Setup project for the first time
 ```
@@ -26,3 +28,18 @@ Start backend server (You should see the backend up and running on  `localhost:8
 ```
 php artisan migrate
 ```
+
+## Start Development (Frontend)
+
+```
+cd frontend
+```
+Install dependencies
+```
+yarn install
+```
+Run a server
+```
+yarn serve
+```
+You should see the frontend web up and running on `localhost:8080`
