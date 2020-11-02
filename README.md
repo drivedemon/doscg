@@ -10,7 +10,7 @@ Create `.env` file
 ```
 cp .env.example .env
 ```
-Access `env` file and change `API` key
+Access `env` file then change `API and Database` key
 ```
 GOOGLE_MAP_KEY="YOUR_API_KEY"
 WEBHOOK_API="YOUR_API"
